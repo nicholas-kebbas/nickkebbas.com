@@ -62,9 +62,7 @@ header {
 .text-muted {
     color: #777;
 }
-#portfolio .col-sm-6{
-    width: 100%!important;
-}
+
 .text-primary {
     color: #fed136;
 }
@@ -440,10 +438,6 @@ section h3.section-subheading {
     display:block;
     text-align:center;
     margin:0 auto;
-}
-
-#item1, #item2, #item3, #item4{
-    float:none!important;
 }
 
 @media(min-width:450px) {
